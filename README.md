@@ -1,4 +1,4 @@
-# Task Tracker
+# Weather API Wrapper Service
 In this project, I try to fetch data from free weather API (https://open-meteo.com/)
 
 ## roadmap.sh
